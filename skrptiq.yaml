@@ -1,9 +1,9 @@
 # --- Identity ---
-id: "a11c64e0-288d-41ae-a7fb-4871575a309a"
+id: "89a5666b-057e-4acc-9c1b-15858bd832dd"
 name: "brand-voice-guide"
 display_name: "Brand Voice Guide"
 description: "Company brand voice, tone, and style reference for all content and communications"
-version: "1.0.0"
+version: "1.0.1"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"

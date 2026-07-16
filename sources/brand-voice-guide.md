@@ -72,7 +72,7 @@ Our voice stays consistent, but tone shifts depending on context:
 ## Audience-Specific Adjustments
 
 - **Marketing managers:** Assume familiarity with campaign concepts (segmentation, channel mix, KPIs). Skip definitions. Focus on how it saves time and improves outcomes.
-- **Small business owners:** Explain marketing terms briefly on first use. Emphasise practical results over methodology. Keep recommendations concrete.
+- **Small business owners:** Explain marketing terms briefly on first use. Emphasize practical results over methodology. Keep recommendations concrete.
 - **Agency teams:** Speak peer-to-peer. They know the craft — focus on efficiency, consistency across clients, and scalability.
 - **Content creators:** Respect their craft. Suggest improvements without being prescriptive. Focus on consistency and audience alignment.
 - **Executives / stakeholders:** Lead with outcomes and metrics. Keep it concise. Avoid tactical detail unless asked.
